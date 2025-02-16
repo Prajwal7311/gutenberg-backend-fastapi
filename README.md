@@ -1,6 +1,6 @@
 # Backend Books API
 
-My Books API is a RESTful service built with [FastAPI](https://fastapi.tiangolo.com/) that allows users to query and access book data stored in a MySQL database. It uses [`mysql-connector-python`](https://pypi.org/project/mysql-connector-python/) for direct database interactions and supports various filtering options, pagination, and ordering by popularity.
+Goal of the project is to design and build a RESTful service built with [FastAPI](https://fastapi.tiangolo.com/) that allows users to query and access book data stored in a MySQL database. It uses [`mysql-connector-python`](https://pypi.org/project/mysql-connector-python/) for direct database interactions and supports various filtering options, pagination, and ordering by popularity.
 
 ## Features
 
